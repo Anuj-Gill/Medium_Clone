@@ -46,7 +46,7 @@ app.get('/', (c) => {
               box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.2);
           }
           a {
-              color: #03a9f4;
+              color: blue;
               text-decoration: none;
               font-weight: bold;
               font-size: 1rem;
@@ -84,7 +84,7 @@ app.get('/', (c) => {
               <p>Serverless backends like this eliminate the need for managing traditional servers, improving scalability and reducing overhead. Cloudflare Workers allow code to run at the edge, closer to users, resulting in faster response times and better performance globally.</p>
           </div>
           <div class="dev-warning">
-              ✅ UI is ready. You can test it out here: <a href="YOUR_UI_LINK" target="_blank">Click Here to View UI</a>
+              ✅ UI is ready. You can test it out here: <a href="https://medium-clone-rho-pied.vercel.app/" target="_blank">Click Here to View UI</a>
           </div>
       </div>
       <footer>
